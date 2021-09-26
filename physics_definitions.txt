@@ -1,0 +1,76 @@
+random error	random errors are errors that are inherently unpredictable and leads to the measured values to scatter about a mean value with no fixed pattern
+systematic error	systematic errors are errors associated with a specific flaw in a measuring instrument or the design of the experiment, which leads to the measured value to deviate from the true value with a fixed pattern
+accuracy	accuracy is the measure of how close the measured values are to the true value of a physical quantity
+precision	precision is the mesaure of how close the mesaured values are tp each other
+displacement	displacement is the distance and direction of a point as measured from a reference point
+speed	speed is the rate of change of distance travelled
+velocity	velocity is the rate of change of displacement
+acceleration	is the rate of change of velocity
+hooke's law	hooke's law states that the extension of a spring is proportional to the force applied on it provided the limit of proportionality is not exceeded
+upthrust	upthrust is the resultant vertical upward force exerted by surrounding fluid onto a body fully or partially immerse in a fluid as the pressure at the bottom surface is greater than the pressure at the top
+pressure	pressure is the normal force acting per unit cross-sectional area
+archimedes' principle	archimedes' principle states that when an object is fully or partially immersed in a fluid, it is acted uopn by an upthurst which is equal in magnitude to the weight of fluid displaced by the object
+principle of floatation	principle of floatation states that when a body is floating in equilibirum, the upthrust acting on it is equal in magnitude to the weight of the body
+moment	moment of a force about a point is the product of the magnitude of the force and the perpendicular distance of the point to the line of action of the force
+torque	torque of a couple is the product of the magnitude of one of the forces and the perpendicular distance between the line of actions of the forces 
+linear momentum	linear momentum is the product of mass and velocity and acts in the direction of the velocity
+newton's first law	newton's first law of motion states that an object will continue to be in a state of rest or uniform motion unless acted upon by a net external force
+newton's second law	newton's second law of motion states that the rate of change of momentum experience by an object is directly proportional to the net external force exrted on it and takes place in the direction of the net external force
+newton's third law	newton's third law of motion states that if a body A exerts a force onto body B, then body B will exert the same type of force, of equal magnitude but opposite in direction onto body A
+force	force is the rate of change of momentum
+principle of conservation of linear momentum	principle of conservation of linear momentum states that the total final momentum in a system after collision is equal to the total initial momentum of the system, provided net external force acting on the system is zero
+work done	work done by a constant force on an object is the product of the component of force along the direction of the displacement of the object and the magnitude of the displacement
+work-energy theorem	work-energy theorem states that the net work done on a body is equal to the change in its kinetic energy
+total mechanical energy	total mechanical energy of a system is the sum of all kinetic energy and potential energy of the system
+principle of conservation of mechanical energy	principle of conservation of mechanical energy states that in the absense any net external force and internal non-conservative forces, the total mechanical energy of a system is conserved
+principle of conservation of energy	principle of conservation of energy states that total energy in an isolated system is always conserved. Enery cannot be created or destroyed, but only transform from one form to another
+power	power is the rate of work done / energy supplied
+angular dsplacement	angular displacement is the angle swept out by the radius joining the body to the center of the circle
+angular velocity	angular velocity is the rate of change of angular displacemnt
+centripetal acceleration	centripetal acceleration is the acceleration of an object moving in uniform circular motion resulting from a net external force
+centripetal force	centripetal force is the net external force providing centripetal acceleration that enables a body to move in circular motion.
+gravitational field	gravitational field is a region of space where an object with mass will experience a gravitational force
+newton's law of gravitation	newton's law of gravitation states that every point mass attracts every other point mass with a force that is directly proportional the the product of their masses and inversly proportional to the square of the distance between them
+gravitational field strength	gravitational field strength at a point is the gravitational force per unit mass on a small test mass at that point in the gravitational field
+gravitational potential energy	gravitational potential energy of a system is the work done by an external agent to bring the masses from infinity to their positions in the system, without acceleration
+gravitational potential	gravitational potential at a point is the work done by an external agent per unit mass to bring a small test mass from infinity to that point, without acceleration
+coulomb's law	coulomb's law states that the electric force acting between any two point charge is directly proportional to the product of the charges and inversly proportional to the square of the distance between them and the direction of force is along the line joining the two point charge in free space
+electric field strength	electrice field strength at a point is the electric force exerted per unit positive charge on a small test charge at that point
+electric potential	electric potential at a point is the work done per unit positive charge by an exteral agent in bringing a small test charge from infinity to that point, without acceleration
+zeroth law of thermodynamics	the zeroth law of thermodynamics states that if two bodies are in thermal equilibirum with a third body, all three bodies are in thermal equilibirum with each other
+specific heat capacity	specific heat capacity of a substance is the quantity of heat required to produce a unit temperature rise per unit mass of the substance, without any change in phase
+specific latent heat of vapourisation	specific latent heat of vapourisation is the quantity of heat required to change a unit mass of a substance from liquid to gas without a change in temperature
+specific latent heat of fusion	specific latent heat of fusion is the quantity of heat required to change a unit mass of a substance from a solid to a liquid without a change in temperature
+internal energy	internal energy of a system is the sum of the random distribution of kinetic and potential energy of the particles in the system
+first law of thermodynamics	first law of thermodynamics states that the increase in internal energy of a system is the the sum of the heating supplied to the system and the work done on the system
+simple harmonic motion	simple harmonic motion is the to-and-fro periodic motion of an object about an equilibirum point such that its acceleration is always directed towards the equilibrium point and is directly proportional to the magnitude of its displacement from the equilibirum position but always acts in opposite directions to it
+damping	damping is the process where energy in an oscillating system decreases over time as work is done against external resistive forces resulting in the reduction of amplitude of subsequent oscillations
+resonance	resonance is a phenomenon experienced by a system acted upon by an external periodic driving force, such that the resulting amplitude of forced oscillations of the system reaches a maximum. This occurs when the driving frequency approches the natural frequency of the system
+phase difference	phase difference is the fraxction of a cycle in which two particles in a wave or two waves are out of step with each other
+diffraction	difraction is the spreading of waves into its geometrical shadow when incident on an edge of an obstacle or aperture
+principle of superposition	principle of superposition states that the net displacement at a given place and time is the vector sum of the displacement of each individual wave at that point and time.
+rayleigh's criterion	rayleigh's criterion states that two images are just resolved when the central maximum of one image falls on the first minimum of the other
+stationary wave	a stationary wave is formed when two progressive waves of equal amplitude, frequency and speed, meet when travelling in opposite direction. It does not propagate energy
+magnetic field	magnetic field is a region of space where a magnetic force is experienced by a magnetic material, and a current-carying conductor / moving charge not parallel to the magnetic field lines
+magnetic flux density	magnetic flux density is the magnetic force per unit length acting on a current carrying conductor carrying unit charge, placed perpendicularly to this external magnetic field
+velocity selector	velocity selector is used to isolate charged particles of a single velocity from a group of charged particles of different velocities
+magnetic flux	magnetic flux passing through a surface area is the product of the component of magnetic flux density normal to the surface area, and the surface area
+magnetic flux linkage	magnetic flux linkage is the sum of magnetic flux of each individual turn in a coil
+faraday's law	faraday's law states that the magnitude of induced e.m.f in a conductor is directly proportional to the rate of change of magnetic flux linkage experienced by the conductor
+lenz's law	lenz's law states that the direction and polarity of the induced e.m.f is such that it produce a magnetic field to oppose the change in magnetic flux linkage experienced by it
+e.m.f.	e.m.f. is the amount of non-electrical energy converted to electrical energy per unit charge across the terminals
+potential difference	potential difference is the amount of electrical energy converted to non-electrical energy per unit charge from one point to another
+r.m.s. value of a.c.	RMS value of AC is the value of AC that is equal to the value of steady current which dissipates heat at the same average rate in a given resistor
+rectification	rectification is the process of converting an alternating current into an unidirectional current
+photon	photons are quantums of energy of electromagnetic radiation and its energy is the product of the planck constant and the frequency of the radiation
+work function	work function of a metal is the minimum energy required to release the most energetic electron from the surface of the metal
+threshold frequency	threshold frequency is the minimum frequency of incident EM radioation required to release an electron from the surface of a metal
+stopping potential	stopping potential is the minimum potential difference such that photocurrent drops to zero, as even the most energetic photoelectron will be unable to reach the collector
+ground state	ground state is the lowest possible energy level an electron can have
+ionised state	ionised state is the state in which the electron have sufficient energy to escape  the atom
+excitation energy	excitation energy is the energy required to raise an electron from its ground state to an excited state
+ionisation energy	ionisation energy is the energy required to completely remove an electron initially at its ground state from an atom
+x-rays	x-rays are ionising electromagneic radiation
+cut-off wavelength	cut-off wavelength corresponds to the wavelength of the most energetic photon, in which the incident electron loses all its kinetic energy during its first collision
+heisenberg's uncertainty principle	heisenberg's uncertainty principle for position and momentum states that if the position and momentum of a particle are measured simultaneously, there is a minimum uncertainty, given by ^x^p>=h 
+center of gravity	center of gravity is the point where the weight an object appears to act through
